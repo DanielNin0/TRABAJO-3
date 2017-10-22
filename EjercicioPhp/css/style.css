@@ -1,0 +1,54 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.fondo{
+	background-image: url("../img/fondo.jpg");
+	background-size: 100% 100%;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+h4{
+	color: white;
+	text-align: center;
+}
+
+footer{
+	width: 100%;
+	height: 10%;
+	background: #15101b;
+	bottom: 0;
+	color: white;
+	position: fixed;
+	left: 0px;
+	line-height: 1;
+	text-align: center;
+}
+
+footer a:hover{
+		font-family: Tahoma, Geneva, sans-serif;
+		font-size: 14px;
+		font-weight: 900;
+		background-color: #FFCCFF;
+		text-decoration: none;
+		color: #FF0000;
+		border: 1px solid #FF0000;
+	
+}
+
+.centrado{
+	background-color: white;
+	text-align: center;
+	margin-right: 25%;
+	margin-left: 25%;
+	height: 70%;
+
+}
+.centrado img{
+	width: 100px;
+	height: 100px;
+}
+
+
